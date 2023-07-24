@@ -38,6 +38,6 @@ I am a casual football enthusiast and a member of the Computer Science School Fo
 
 I enjoy recitation and participated in the May Flower Literary and Art Gala in 2022. Unfortunately, it was a dubbing performance, and I struggled with facial expressions management. Fortunately, our team won the first prize. Video is [here](https://www.bilibili.com/video/av811404763/?vd_source=1920e32e7644aafe109ad2f9ec08c4a9).
 
-I used to be a production assistant in two movies of CCTV6 [拳天下之拳锋](https://movie.douban.com/subject/35314511/),[拳天下之拳力](https://movie.douban.com/subject/35314509/). If you're careful enough, you will find me in the movie as some walk-ons😄.
+I used to be a production assistant in two movies of CCTV6 [拳天下之拳锋](https://movie.douban.com/subject/35314511/),[拳天下之拳力](https://movie.douban.com/subject/35314509/). If you're careful enough, you will find me in the movie as some walk-ons😄.(Attention please: both are super terrible movies!)
 
 
