@@ -25,8 +25,10 @@ I am Libo Shen(沈力博). A 2nd year Master student in State Key Lab of Process
 
   B.Eng in Communication Engneering
 
+**I'm pursuing a PH.D. in EDA！😃**
+
 ### Research Interest
-In-memory Compute, Design Automation, Design Space Exploration
+In-Memory Compute, Electronic Design Automation
 
 ### Publications
 [ICCAD] **Libo Shen**, Boyu Long, Rui Liu, Xiaoyu Zhang, Yinhe Han, Xiaoming Chen, "LIM-GEN: A Data-guided Framework for Automated Generation of Heterogeneous Logic-in-Memory Architecture", in *International Conference on Computer-Aided Design (ICCAD'23)*.
