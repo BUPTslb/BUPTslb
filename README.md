@@ -25,7 +25,7 @@ I am Libo Shen(沈力博). A 2nd year Master student in State Key Lab of Process
 
   B.Eng in Communication Engneering
 
-**I'm pursuing a PH.D. in EDA！😃**
+**I'm pursuing a PH.D. opportunity in EDA！😃**
 
 ### Research Interest
 In-Memory Compute, Electronic Design Automation
