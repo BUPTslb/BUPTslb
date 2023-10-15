@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Libo Shen(沈力博). A 3rd year Master student in State Key Lab of Processor, Institute of Computing Technology, Chinese Academy of Sciences. My Advisor is Prof. [Xiaoming Chen](https://people.ucas.edu.cn/~chenxm). 
+I am Libo Shen(沈力博). A 3rd year Master candidate in State Key Lab of Processor, Institute of Computing Technology, Chinese Academy of Sciences. My Advisor is Prof. [Xiaoming Chen](https://people.ucas.edu.cn/~chenxm). 
 
 ### Education
 - Sep. 2021 - Present: **SKLP** ,**ICT, CAS**
 
-  Master Student in Computer Systems and Architecure
+  Master candidate in Computer Systems and Architecure
 
 - Sep. 2017 - Jun. 2021: **Beijing University of Posts and Telecommunications**
 
