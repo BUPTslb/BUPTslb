@@ -31,9 +31,10 @@ I am Libo Shen(沈力博). A 3rd year Master candidate in State Key Lab of Proce
 In-Memory Compute, Electronic Design Automation
 
 ### Publications
-[ICCAD] **Libo Shen***, Boyu Long, Rui Liu, Xiaoyu Zhang, Yinhe Han, Xiaoming Chen, "LIM-GEN: A Data-guided Framework for Automated Generation of Heterogeneous Logic-in-Memory Architecture", in *International Conference on Computer-Aided Design (ICCAD'23)*.
+[ICCAD] **Libo Shen***, Boyu Long, Rui Liu, Xiaoyu Zhang, Yinhe Han, Xiaoming Chen, "LIM-GEN: A Data-guided Framework for Automated Generation of Heterogeneous Logic-in-Memory Architecture", in *International Conference on Computer-Aided Design (ICCAD'23)*.[link](https://ieeexplore.ieee.org/document/10323837)
+[ICCAD] Boyu Long, **Libo Shen***, Xiaoyu Zhang, Yinhe Han, Xian-He Sun, Xiaoming Chen, "Meltrix: A RRAM-based Polymorphic Architecture Enhanced by Function Synthesis", in *International Conference on Computer-Aided Design (ICCAD'23)*.[link](https://ieeexplore.ieee.org/document/10323544)
 
-[ICCAD] Boyu Long, **Libo Shen***, Xiaoyu Zhang, Yinhe Han, Xian-He Sun, Xiaoming Chen, "Meltrix: A RRAM-based Polymorphic Architecture Enhanced by Function Synthesis", in *International Conference on Computer-Aided Design (ICCAD'23)*.
+
 
 ### More
 I went to San Francisco for ICCAD2023 and gave **FIVE presentation**, **One project from Tsinghua University**,**Four from Institute of Computing Technology,CAS**
