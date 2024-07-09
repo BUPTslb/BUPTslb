@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Libo Shen(沈力博), B.eng of BUPT, Master of ICT,CAS, now is a first year Ph.D student of CUHK.
+I am Libo Shen(沈力博), now is a first year Ph.D student of CUHK.
 
 
 **MORE**
+
+
 I am a casual football enthusiast and a member of the Computer Science School Football Team at the University of Chinese Academy of Sciences. We won the [third place in the 2022 KeYuan Cup](https://mp.weixin.qq.com/s?__biz=MzAwOTU0MjUyMQ==&mid=2650499392&idx=2&sn=7f4c5e69d89c94bd7265097b1285d059&chksm=8351c756b4264e407f23900812dd666b77d7dd4fea773a10d2b210dbd2e185ff506b6a4c5370&scene=27).
 
 I enjoy recitation and participated in the May Flower Literary and Art Gala in 2022. Unfortunately, it was a dubbing performance, and I struggled with facial expressions management. Fortunately, our team won the first prize. Video is [here](https://www.bilibili.com/video/av811404763/?vd_source=1920e32e7644aafe109ad2f9ec08c4a9).
