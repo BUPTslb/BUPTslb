@@ -19,6 +19,7 @@ My Research interests:
 - LLM inference acceleration
 - [CIM HLS](https://github.com/BUPTslb/LIMGEN)
 
+If you are interested in PIM, you can see the PIM-toolchain project of our team, a suite of tools for PIM-based CNN accelerators, including PIMCOMP-NN, PIMSYN-NN, and PIMSIM-NN: [PIM-Toolchain](https://github.com/chenxm1986/PIM-Toolchain)
 
 <!--
 **MORE**
