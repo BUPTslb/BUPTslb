@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **BUPTslb/BUPTslb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,13 @@ Here are some ideas to get you started:
 -->
 I am Libo Shen(沈力博), now is a first year Ph.D student of CUHK.
 
+My Research interests:
 
+- LLM inference acceleration
+- [CIM HLS](https://github.com/BUPTslb/LIMGEN)
+
+
+<!--
 **MORE**
 
 
@@ -26,4 +30,4 @@ I enjoy recitation and participated in the May Flower Literary and Art Gala in 2
 
 I used to be a production assistant in two movies of CCTV6 [拳天下之拳锋](https://movie.douban.com/subject/35314511/),[拳天下之拳力](https://movie.douban.com/subject/35314509/). If you're careful enough, you will find me in the movie as some walk-ons😄.(Attention please: both are super terrible movies!)
 
-
+-->
