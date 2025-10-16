@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Libo Shen(沈力博), now is a first year Ph.D student of CUHK.
+I am Libo Shen(沈力博), now is a second year Ph.D student of CUHK.
 
 My Research interests:
 
